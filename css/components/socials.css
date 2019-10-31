@@ -1,0 +1,24 @@
+.footer {
+  background-color: #2C2B2B;
+  margin-top: 30px;
+  padding: 100px 0;
+}
+
+.socials-list ul {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  color: #1EDD88;
+  font-size: 40px;
+  justify-content: center;
+  margin: 0;
+}
+
+.socials-list ul li {
+  margin: 0 10px 0 10px;
+}
+
+.footer p {
+  margin-bottom: 0;
+  color: rgba(250, 250, 250, .8);
+}

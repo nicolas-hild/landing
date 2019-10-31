@@ -1,0 +1,12 @@
+/* Your button CSS file */
+
+/*MEDIUM BTN GREEN VERSION*/
+
+.btn-medium-green {
+  border-radius: 50px;
+  padding: 10px 15px;
+  color: white;
+  text-decoration: none;
+  font-weight: lighter;
+  background-color: #1EDD88;
+}
